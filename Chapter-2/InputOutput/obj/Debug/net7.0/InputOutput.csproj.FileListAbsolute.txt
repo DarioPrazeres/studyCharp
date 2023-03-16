@@ -1,0 +1,15 @@
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/bin/Debug/net7.0/InputOutput
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/bin/Debug/net7.0/InputOutput.deps.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/bin/Debug/net7.0/InputOutput.runtimeconfig.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/bin/Debug/net7.0/InputOutput.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/bin/Debug/net7.0/InputOutput.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.csproj.AssemblyReference.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.AssemblyInfoInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.AssemblyInfo.cs
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.csproj.CoreCompileInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/refint/InputOutput.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/InputOutput.genruntimeconfig.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/InputOutput/obj/Debug/net7.0/ref/InputOutput.dll
