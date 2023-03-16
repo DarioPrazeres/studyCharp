@@ -1,0 +1,15 @@
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/bin/Debug/net7.0/hello
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/bin/Debug/net7.0/hello.deps.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/bin/Debug/net7.0/hello.runtimeconfig.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/bin/Debug/net7.0/hello.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/bin/Debug/net7.0/hello.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.csproj.AssemblyReference.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.AssemblyInfoInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.AssemblyInfo.cs
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.csproj.CoreCompileInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/refint/hello.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/hello.genruntimeconfig.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter 1/hello/obj/Debug/net7.0/ref/hello.dll

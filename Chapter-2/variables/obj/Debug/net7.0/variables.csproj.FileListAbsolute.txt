@@ -1,0 +1,15 @@
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/bin/Debug/net7.0/variables
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/bin/Debug/net7.0/variables.deps.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/bin/Debug/net7.0/variables.runtimeconfig.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/bin/Debug/net7.0/variables.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/bin/Debug/net7.0/variables.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.csproj.AssemblyReference.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.AssemblyInfoInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.AssemblyInfo.cs
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.csproj.CoreCompileInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/refint/variables.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/variables.genruntimeconfig.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Chapter-2/variables/obj/Debug/net7.0/ref/variables.dll
