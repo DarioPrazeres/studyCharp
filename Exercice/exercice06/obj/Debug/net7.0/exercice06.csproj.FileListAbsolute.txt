@@ -1,0 +1,15 @@
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/bin/Debug/net7.0/exercice06
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/bin/Debug/net7.0/exercice06.deps.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/bin/Debug/net7.0/exercice06.runtimeconfig.json
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/bin/Debug/net7.0/exercice06.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/bin/Debug/net7.0/exercice06.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.csproj.AssemblyReference.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.GeneratedMSBuildEditorConfig.editorconfig
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.AssemblyInfoInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.AssemblyInfo.cs
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.csproj.CoreCompileInputs.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/refint/exercice06.dll
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.pdb
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/exercice06.genruntimeconfig.cache
+/home/darioprazeres/Documents/GitHub/studyCharp/Exercice/exercice06/obj/Debug/net7.0/ref/exercice06.dll

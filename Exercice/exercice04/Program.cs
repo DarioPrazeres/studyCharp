@@ -19,12 +19,13 @@ namespace Exercice
             Console.Write("Digite o Numero C: ");
             c =  Convert.ToDouble(Console.ReadLine());
             sum = (a+b+c)/2;
-            area = 
+            area = Math.Sqrt(sum*(sum - a)*(sum - b)*(sum - c));
             Console.WriteLine("===================");
             Console.WriteLine("A = " + a);
             Console.WriteLine("B = " + b);
             Console.WriteLine("C = " + c);
-
+            Console.WriteLine("The sum is: "+ sum);
+            Console.WriteLine("The Area is: "+ Math.Round(area, 3));
         }
     }    
 }
