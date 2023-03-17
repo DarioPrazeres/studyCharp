@@ -24,7 +24,7 @@ namespace Exercice
             timeSecond = Convert.ToInt16(Console.ReadLine());
             hour = timeSecond/3600;
             minute = (timeSecond/60)%10;
-            second = timeSecond/60;
+            second = (timeSecond-3600) - 3*60;
             Console.WriteLine("Time In Hour is: {0}", hour);
             Console.WriteLine("Time In Minutes is: {0}", minute);
             Console.WriteLine("Time In Seconds is: {0}", second);
