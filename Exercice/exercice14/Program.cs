@@ -7,7 +7,7 @@ pelo menor, caso a soma deles seja maior que 8.
 using System;
 namespace Exercice
 {
-    class Exercice11{
+    class Exercice14{
         static void Main(string[] agrs){
             int number_1, number_2, sum, mult, most, less;
             double media;
